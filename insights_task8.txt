@@ -1,0 +1,8 @@
+1. Top-ranked customers within each region contribute a significant share of total revenue,
+indicating high customer concentration.
+
+2. Monthly sales show clear fluctuations with strong growth during certain periods,
+highlighting seasonality effects.
+
+3. Revenue distribution suggests that retaining high-ranking customers can have a
+disproportionate impact on overall business performance.
